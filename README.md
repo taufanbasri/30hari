@@ -1,1 +1,1 @@
-# 30hari
+# Learning 30 Hari Javascript from https://asrul.dev/
